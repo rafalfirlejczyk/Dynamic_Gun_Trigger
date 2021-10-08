@@ -1,0 +1,4 @@
+#Fri Oct 08 16:56:51 CEST 2021
+base.0=C\:\\Users\\brm738\\DYNAMIC_GUN_TRIGGER\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

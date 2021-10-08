@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DYNAMIC_GUN_TRIGGER.iml" filepath="$PROJECT_DIR$/.idea/modules/DYNAMIC_GUN_TRIGGER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DYNAMIC_GUN_TRIGGER.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DYNAMIC_GUN_TRIGGER.app.iml" />
+    </modules>
+  </component>
+</project>
